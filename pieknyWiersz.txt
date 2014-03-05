@@ -1,5 +1,11 @@
+<<<<<<< HEAD
+robienie czegokolwiek sprawia mi wiele radoœci
+While(1)
+	Jestem szczêsliwy
+=======
 cokolwiek
 jest kurczê ciemno i bardzo siê bojê iœæ do domu
 qwer
 while (1)
 	"pupa"
+>>>>>>> remotes/origin/wulgarna
