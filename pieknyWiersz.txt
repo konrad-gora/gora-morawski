@@ -1,1 +1,3 @@
 robienie czegokolwiek sprawia mi wiele radoœci
+While(1)
+	Jestem szczêsliwy
