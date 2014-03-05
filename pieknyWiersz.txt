@@ -1,3 +1,4 @@
 cokolwiek
+jest kurczê ciemno i bardzo siê bojê iœæ do domu
 while (1)
 	"pupa"
